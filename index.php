@@ -3,7 +3,7 @@
 include("config/config.php");
  
 //untuk api_key newsapi.org
-$api_key="789c5f64fbef4d1993dc53fc5cd2a889";
+$api_key="78xxxxxxxxxxxxxxxxx";
  
 //url api untuk ambil berita headline di Indonesia
 $url="https://newsapi.org/v2/everything?q=indonesia&apiKey=".$api_key;
